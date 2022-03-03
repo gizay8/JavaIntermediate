@@ -1,8 +1,8 @@
 /*This program sorts books by creating a Map<String, String> 
-so that "the author name" is opposite "the book name" 
-using the Stream and Lambda expressions. 
+so that "the author name" is opposite "the book name". 
 In addition, it filters books with more than 100 pages 
-and outputs them as a new list.
+and outputs them as a new list 
+using the Stream and Lambda expressions.
 */
 import java.util.ArrayList;
 import java.util.HashMap;
