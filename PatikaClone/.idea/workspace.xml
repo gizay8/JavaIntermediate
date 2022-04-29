@@ -2,43 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1e537a5-96de-4df2-8e46-0705ad7d4771" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PatikaClone.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/Helper/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/Helper/DBConnector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/Helper/Helper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/Helper/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/Helper/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/Model/Content.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/Model/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/Model/Educator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/Model/Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/Model/Path.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/Model/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/Model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/Model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/ContentGUI.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/ContentGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/EducatorGUI.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/EducatorGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/LoginGUI.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/LoginGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/OperatorGUI.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/OperatorGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/QuestionGUI.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/QuestionGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/SignUpGUI.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/SignUpGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/StudentGUI.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/StudentGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/UpdateCourseGUI.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/UpdateCourseGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/UpdatePathGUI.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/UpdatePathGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/patikadev/Helper/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/patikadev/Helper/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
