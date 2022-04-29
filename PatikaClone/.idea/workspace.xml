@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1e537a5-96de-4df2-8e46-0705ad7d4771" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PatikaClone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/Helper/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/Helper/DBConnector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/Helper/Helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/Helper/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/Helper/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/Model/Content.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/Model/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/Model/Educator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/Model/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/Model/Path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/Model/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/Model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/Model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/ContentGUI.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/ContentGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/EducatorGUI.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/EducatorGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/LoginGUI.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/LoginGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/OperatorGUI.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/OperatorGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/QuestionGUI.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/QuestionGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/SignUpGUI.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/SignUpGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/StudentGUI.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/StudentGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/UpdateCourseGUI.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/UpdateCourseGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/UpdatePathGUI.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patikadev/View/UpdatePathGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icon.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27NH5mvloP9yBh0A6m0ZqULxSPY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="183" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gizay\OneDrive\Belgeler\GitHub\PatikaJava102\PatikaClone\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ContentGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.patikadev.View.ContentGUI" />
+      <module name="PatikaClone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.patikadev.View.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EducatorGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.patikadev.View.EducatorGUI" />
+      <module name="PatikaClone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.patikadev.View.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.patikadev.View.LoginGUI" />
+      <module name="PatikaClone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.patikadev.View.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.patikadev.Helper.Main" />
+      <module name="PatikaClone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.patikadev.Helper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperatorGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.patikadev.View.OperatorGUI" />
+      <module name="PatikaClone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.patikadev.View.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.LoginGUI" />
+        <item itemvalue="Application.EducatorGUI" />
+        <item itemvalue="Application.ContentGUI" />
+        <item itemvalue="Application.OperatorGUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1e537a5-96de-4df2-8e46-0705ad7d4771" name="Changes" comment="" />
+      <created>1649153445773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649153445773</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
